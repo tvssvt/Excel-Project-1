@@ -8,7 +8,8 @@ This project is an Excel dashboard designed to visualize key metrics and insight
 
 ## Screenshots
 Here are some of the key visuals from the Excel dashboard:
-Customer Analysis and Sales Trends.png
+
+![Description of image](Customer Analysis and Sales Trends.png)
 
 
 ## How to Use
